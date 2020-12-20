@@ -12,6 +12,7 @@ module.exports = {
     'simple-import-sort/imports': 'error',
     'sort-imports': 'off',
     'import/order': 'off',
+    'import/no-anonymous-default-export': 'off',
   },
   env: {
     jest: true,
