@@ -23,7 +23,7 @@ function CityCard({ src, name, description }) {
           style={{ height: '100%', width: '100%', borderRadius: '12px' }}
         />
       </span>
-      <span style={{ display: 'flex', flexWrap: 'wrap', flexGrow: 1 }}>
+      <span style={{ display: 'flex', flexWrap: 'wrap' }}>
         <span style={{ flex: '0 1 100%' }}>
           <b>{name}</b>
         </span>
